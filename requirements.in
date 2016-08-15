@@ -1,0 +1,7 @@
+fuzzywuzzy>=0.11.0
+numpy>=1.11.0
+pathos>=0.2.0
+psycopg2>=2.6.1
+scikit-learn>=0.17.1
+spacy>=0.101.0
+# stanford-corenlp-pywrapper>=0.1.0
